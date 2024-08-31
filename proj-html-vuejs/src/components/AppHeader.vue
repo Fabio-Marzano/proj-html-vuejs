@@ -28,7 +28,7 @@
             <p class="m-1">CATEGORY</p>
           </div>
           <div class="col-4">
-            <p>ciao</p>
+            <p>Become an instractor</p>
           </div>
         </div>
       </div>
@@ -39,11 +39,12 @@
           <div class="col-12">
             <div class="row">
               <div class="col-6">
-                <h1>Investing on You</h1>
+                <h1>Start investing in you</h1>
+                <p class="p-1">With over 1200 courses in 18 subjects, you're guaranteed to find something that's right for you</p>
               </div>
               <div class="col-6">
                 <div>
-                   <img src="../assets/Img/base.png">
+                   <img class="img-1" src="../assets/Img/base.png">
                 </div>
               </div>
             </div>
