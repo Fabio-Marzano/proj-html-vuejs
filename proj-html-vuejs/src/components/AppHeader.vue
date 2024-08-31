@@ -8,8 +8,14 @@
               <div class="col-6">
                 <p>English</p>
               </div>
-              <div class="col-6">
-                <p>Spanish</p>
+              <div class="col-6 head">
+                <p class="m-1">Courses</p>
+                <p class="m-1">Zoom</p>
+                <p class="m-1">Pages</p>
+                <p class="m-1">Bundles</p>
+                <p class="m-1">Course Formats</p>
+                <p class="m-1">Add Course</p>
+                <p class="m-1">Demos</p>
               </div>
             </div>
           </div>
@@ -17,7 +23,7 @@
       </div>
     </header>
     <main>
-      <div class="container-main">
+      <div class="container">
         <div class="row">
           <div class="col-12">
             <div class="row">
@@ -25,7 +31,9 @@
                 <h1>Investing on You</h1>
               </div>
               <div class="col-6">
-                
+                <div>
+                   <img src="../assets/Img/base.png">
+                </div>
               </div>
             </div>
             

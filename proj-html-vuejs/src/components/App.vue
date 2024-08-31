@@ -14,10 +14,10 @@
     <AppHeader />
   </header>
   <main>
-    <AppLogo />
+    
   </main>
 </template>
 
-<style scoped>
-
+<style lang="scss">
+@use '../styles/generals.scss'
 </style>

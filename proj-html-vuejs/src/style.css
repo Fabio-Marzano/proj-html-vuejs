@@ -4,11 +4,8 @@
     box-sizing: border-box;
 }
 
-.container-main {
+.head {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: white;
-
+    flex-direction: row;
+    flex-wrap: wrap;
 }
