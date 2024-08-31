@@ -1,8 +1,10 @@
 <script>
   import AppHeader from "./AppHeader.vue";
+  import AppLogo from "./AppLogo.vue";
   export default {
     components:{
-      AppHeader
+      AppHeader,
+      AppLogo
     }
   }
 </script>
@@ -12,7 +14,7 @@
     <AppHeader />
   </header>
   <main>
-    
+    <AppLogo />
   </main>
 </template>
 
