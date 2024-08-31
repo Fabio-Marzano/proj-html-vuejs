@@ -20,4 +20,5 @@
 
 <style lang="scss">
 @use '../styles/generals.scss'
+
 </style>

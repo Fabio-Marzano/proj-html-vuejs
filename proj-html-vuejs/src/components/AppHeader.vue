@@ -16,8 +16,19 @@
                 <p class="m-1">Course Formats</p>
                 <p class="m-1">Add Course</p>
                 <p class="m-1">Demos</p>
+                <i class="fa-brands fa-twitter"></i>
+
               </div>
             </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-8 head">
+            <img src="../assets/Img/MasterStudy.logo.jpeg">
+            <p class="m-1">CATEGORY</p>
+          </div>
+          <div class="col-4">
+            <p>ciao</p>
           </div>
         </div>
       </div>
