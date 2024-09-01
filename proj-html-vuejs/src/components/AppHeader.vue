@@ -27,6 +27,7 @@
           <div class="col-8 head">
             <img src="../assets/Img/MasterStudy.logo.jpeg">
             <p class="m-1">CATEGORY</p>
+
           </div>
           <div class="col-4 head">
             <p class="m-1">Become an instructor</p>
@@ -59,6 +60,13 @@
             
           </div>
         </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <img class="img-2" src="../assets/Img/hover-card1.png">
+          </div>
+        </div>  
       </div>
        
     </main>
