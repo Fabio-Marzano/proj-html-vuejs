@@ -162,6 +162,53 @@
             <p class="mt-3">Software Development</p>
           </div>
         </div>
+        <div class="row">
+          <div class="col-2">
+            <div class="card mb-3">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-title">Apache></p>
+    <p class="card-text">Web coding and Apache Basics.</p>
+    <p class="card-text"><small class="text-body-secondary">6 hours</small></p>
+  </div>
+</div>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+          <div class="col-2">
+            <p>ciao</p>
+          </div>
+        </div>
       </div>
     </main>
   </div>
