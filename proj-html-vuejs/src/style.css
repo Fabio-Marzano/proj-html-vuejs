@@ -10,8 +10,16 @@
     flex-wrap: wrap;
 }
 
+.w-60 {
+    width: 60%;
+}
+
 .space {
     justify-content: space-between;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .p-1 {
@@ -48,6 +56,17 @@
     height: 50px;
 }
 
+.button-blue {
+    width: 100px;
+    height: 20px;
+}
+
+.button-grey {
+    width: 90px;
+    height: 15px;
+    
+}
+
 .text-grey {
     color: grey;
 }
@@ -59,6 +78,15 @@
 .font {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(45, 44, 44);
+}
+
+.f-size {
+    font-size: 20px;
+}
+
+.f-size-1 {
+    font-size: 12px;
+    color:rgb(0, 106, 255)
 }
 
 .margin-l {
@@ -74,7 +102,7 @@
 }
 
 .mr-20 {
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 .h-50 {
@@ -87,4 +115,10 @@
 
 .bg-container {
     background-color: #f0f4fa;
+}
+
+.container-white {
+    background-color: white;
+    width: 1000px;
+    
 }

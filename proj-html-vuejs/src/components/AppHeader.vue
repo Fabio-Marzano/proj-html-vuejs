@@ -46,7 +46,7 @@
               <div class="col-6">
                 <h1 class="font margin-l mt-5">Start investing in you</h1>
                 <p class="p-1 margin-l">With over 1200 courses in 18 subjects, you're guaranteed to find something that's right for you</p>
-                <button type="button" class="btn btn-primary btn-sm margin-l">JOIN FOR FREE</button>
+                <span class="badge rounded-pill text-bg-primary margin-l button-blue">JOIN FOR FREE</span>
               </div>
               
               <div class="col-6">
@@ -132,7 +132,7 @@
               <div class="col-6">
                 <h1 class="font mt-5 ml-75">Limitless learning, more possibilities</h1>
                 <p class="p-1 ml-75">Online courses open the opportunity for learining to almost anyone regardess of their scheduling commitments</p>
-                <button type="button" class="btn btn-primary btn-sm ml-75">READ MORE</button>
+                <span class="badge rounded-pill text-bg-primary ml-75">READ MORE</span>
               </div>
               
               <div class="col-6">
@@ -145,7 +145,24 @@
           </div>
         </div>
       </div>
-       
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h3 class="text-grey f-size text-center mt-5">Recent courses</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 head space f-size-1 mt-1">
+            <span class="badge rounded-pill text-bg-secondary text-grey mt-3 button-grey">All Categories</span>
+            <p class="mt-3">Art</p>
+            <p class="mt-3">Exercise</p>
+            <p class="mt-3">Material Design</p>
+            <p class="mt-3">Music</p>
+            <p class="mt-3">Photography</p>
+            <p class="mt-3">Software Development</p>
+          </div>
+        </div>
+      </div>
     </main>
   </div>
 </template>
