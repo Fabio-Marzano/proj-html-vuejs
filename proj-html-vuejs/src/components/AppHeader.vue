@@ -125,6 +125,26 @@
           </div>
         </div>
       </div>
+      <div class="container-fluid bg-container mt-3">
+        <div class="row">
+          <div class="col-12">
+            <div class="row">
+              <div class="col-6">
+                <h1 class="font mt-5 ml-75">Limitless learning, more possibilities</h1>
+                <p class="p-1 ml-75">Online courses open the opportunity for learining to almost anyone regardess of their scheduling commitments</p>
+                <button type="button" class="btn btn-primary btn-sm ml-75">READ MORE</button>
+              </div>
+              
+              <div class="col-6">
+                <div>
+                   <img class="img-3 mr-20" src="../assets/Img/Untitled-1-1-1-1-1.png">
+                </div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
        
     </main>
   </div>
