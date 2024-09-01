@@ -165,19 +165,33 @@
         <div class="row">
           <div class="col-2">
             <div class="card mb-3">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="../assets/Img/photo-1461749280684-dccba630e2f6-272x161.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-title">Apache></p>
-    <p class="card-text">Web coding and Apache Basics.</p>
+    <p class="card-title f-size-3"><small class="text-body-secondary">Apache></small></p>
+    <p class="card-text f-size-2">Web coding and Apache Basics.</p>
     <p class="card-text"><small class="text-body-secondary">6 hours</small></p>
   </div>
 </div>
           </div>
           <div class="col-2">
-            <p>ciao</p>
+            <div class="card mb-3">
+  <img src="../assets/Img/cat_2-272x161.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Art></small></p>
+    <p class="card-text f-size-2">Real Things Art Painting by Jason Ni</p>
+    <p class="card-text"><small class="text-body-secondary">6 hours</small></p>
+  </div>
+</div>
           </div>
           <div class="col-2">
-            <p>ciao</p>
+            <div class="card mb-3">
+  <img src="../assets/Img/course-preview-272x161.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Software Development></small></p>
+    <p class="card-text f-size-4">Basics of Masterstudy</p>
+    <p class="card-text f-size-3"><small class="text-body-secondary">5</small></p>
+  </div>
+</div>
           </div>
           <div class="col-2">
             <p>ciao</p>

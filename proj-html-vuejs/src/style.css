@@ -84,6 +84,18 @@
     font-size: 20px;
 }
 
+.f-size-2 {
+    font-size: 13px;
+}
+
+.f-size-3 {
+    font-size: 12px;
+}
+
+.f-size-4 {
+    font-size: 15px;
+}
+
 .f-size-1 {
     font-size: 12px;
     color:rgb(0, 106, 255)
@@ -121,4 +133,8 @@
     background-color: white;
     width: 1000px;
     
+}
+
+.card {
+    height: 100px;
 }
