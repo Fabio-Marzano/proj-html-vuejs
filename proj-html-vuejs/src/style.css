@@ -55,3 +55,19 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(45, 44, 44);
 }
+
+.margin-l {
+    margin-left: 45px;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.h-50 {
+    height: 50%;
+}
+
+.inline {
+    display: inline-block;
+}
