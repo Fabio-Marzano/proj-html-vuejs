@@ -239,7 +239,7 @@
             <div class="card mb-3">
   <img src="../assets/Img/cristian-grecu-762012-unsplash-min-scaled-272x161.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-title f-size-3">"><small class="text-body-secondary">Documentary></small></p>
+    <p class="card-title f-size-3"><small class="text-body-secondary">Documentary></small></p>
     <p class="card-text f-size-2">How to Make Beautiful Landscape photos?</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
   </div>
@@ -291,6 +291,27 @@
             <span class="badge rounded-pill text-bg-primary">SHOW ALL</span>
 
           </div>
+        </div>
+      </div>
+      <div class="container-fluid bg-container mt-3">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h3 class="mt-5 f-size">We Are Proud</h3>
+            <p class="text-grey f-size-4">Certificated courses are instructed by highly educated and qualifiers instructors who hold doctoral and master's level degrees</p>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid bg-green">
+        <div class="row">
+          <div class="col-12 mt-5 text-white head">
+            <h6>Subscribe our newsletter</h6>
+            <p class="f-size-2 mr-3">YOU'RE EMAIL ADDRESS</p>
+          </div>
+        </div>
+        <div class="row"></div>
+        <div class="col-12 text-white head">
+          <p class="w-60 f-size-2 ml-85">There are many variations of passages of Lorem Ipsusa available, but the majority have suffered alteration in some form, by injected humour or randomise words</p>
+          <div class="content-box mr-2"><button type="button" class="btn btn-primary ml-100">SUBSCRIBE</button></div>
         </div>
       </div>
     </main>
