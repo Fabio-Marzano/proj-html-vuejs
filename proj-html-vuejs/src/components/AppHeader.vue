@@ -394,7 +394,7 @@
           </div>
         </div>
       </div>
-      <div class="container-fluid">
+      <div class="container-fluid cont-h2">
         <div class="row mt-5">
           <div class="col-6">
             <div class="box-white head d-center">
@@ -419,6 +419,18 @@
                 <span class="badge rounded-pill text-bg-primary bb">DOING BUSINESS</span>
               
               </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid bg-image">
+        <div class="row">
+          <div class="col-12 d-center">
+            <div class="square-white mr-4 margin-2">
+              <p class="fw-normal margin-l mt-4">Come as you are</p>
+              <p class="w-70 f-size-3 margin-l text-grey mt-2">MasterStudy used is an excellent workshop whether you come as a counselor, advisor, administrator, or faculty member. I am going home empowered. I am looking forward to attending the One Course MasterStudy and the MasterStudy National Conference next year and facilitating the use of this excellente retention/student success course at my college.</p>
+              <h6 class="margin-l mt-2 f-size-3">Tim Sab</h6>
+              <p class="margin-l f-size-10 mt-2">General Developer, Stylemix Themes</p>
             </div>
           </div>
         </div>
