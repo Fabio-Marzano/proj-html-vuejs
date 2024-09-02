@@ -450,9 +450,30 @@
           </div>
           <div class="col-3">
             <h6 class="margin-l">Pages</h6>
+            <div class="d-flex">
+              <ul class="ml-30 f-size-3 mt-1">
+                <li>Block</li>
+                <li class="mt-2">Home</li>
+                <li class="mt-2">Shortcodes</li>
+              </ul>
+              <ul class="ml-20 f-size-3 mt-1">
+                <li>Courses</li>
+                <li class="mt-2">Membership</li>
+                <li class="mt-2">Typography</li>
+              </ul>
+
+            </div>
           </div>
           <div class="col-3">
             <h6>Blog</h6>
+            <div class="d-flex">
+              <img class="img-footer" src="../assets/Img/photo-1517520287167-4bbf64a00d66-50x50.jpeg">
+              <p class="f-size-10 text-grey w-60 ml-10">Our main target is to Developing yourself as a Leader</p>
+            </div>
+            <div class="d-flex">
+              <img class="img-footer" src="../assets/Img/photo-1490376840453-5f616fbebe5b-50x50.jpeg">
+              <p class="f-size-10 text-grey w-60 ml-10">Those Other College Expenses You Aren't Thinking About</p>
+            </div>
           </div>
         </div>
       </div>
