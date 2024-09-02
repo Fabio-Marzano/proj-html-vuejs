@@ -435,6 +435,27 @@
           </div>
         </div>
       </div>
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-3">
+            <h6 class="margin-l">About</h6>
+            <p class="f-size-10 w-80 margin-l"><a href="#" class="link-underline-light">MasterStudy</a> is Education WordPress theme featured by Learning Management System (LMS) for online education. Developed by <a href="#" class="link-underline-light">Stylemix Themes</a></p>
+          </div>
+          <div class="col-3">
+            <h6 class="margin-l">Contact</h6>
+            <p class="f-size-10 w-70 margin-l">USA, California 20, First Avenue, California</p>
+            <p class="f-size-10 margin-l">Tel.:+1 212 458 300 32</p>
+            <p class="f-size-10 margin-l">Fax.:+1 212 375 24 14</p>
+            <p class="text-grey f-size-10 margin-l">info@masterstudy.com</p>
+          </div>
+          <div class="col-3">
+            <h6 class="margin-l">Pages</h6>
+          </div>
+          <div class="col-3">
+            <h6>Blog</h6>
+          </div>
+        </div>
+      </div>
     </main>
   </div>
 </template>
