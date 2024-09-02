@@ -314,7 +314,7 @@
           <div class="content-box mr-2"><button type="button" class="btn btn-primary ml-100">SUBSCRIBE</button></div>
         </div>
       </div>
-      <div class="container-fluid bg-container">
+      <div class="container-fluid bg-container container-h">
         <div class="row">
           <div class="col-12">
             <h3 class="text-center mt-5 f-size">Popular Courses</h3>
@@ -381,6 +381,45 @@
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
   </div>
 </div>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col-12 d-center">
+            <div class="box">
+              <p class="ml-10 tg"><</p>
+            </div>
+            <div class="box">
+              <p class="ml-10 tg">></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid">
+        <div class="row mt-5">
+          <div class="col-6">
+            <div class="box-white head d-center">
+              <div class="col-4">
+                <img class="img-4 ml-20" src="../assets/Img/image_box_1-221x231.png">
+              </div>
+              <div class="col-8">
+                <h4>Become an Instructor</h4>
+                <p class="w-70">Teach what you love. MasterStudy gives you the tools to create a course</p>
+                <span class="badge rounded-pill text-bg-primary bb">START TEACHING</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="box-white head d-center">
+              <div class="col-4">
+                <img class="img-4 ml-20" src="../assets/Img/image_box_2-234x231.png">
+              </div>
+              <div class="col-8">
+                <h4>Setup for Business</h4>
+                <p class="w-70">Get unlimited access to 2500 of Udemy's top courses for yout team</p>
+                <span class="badge rounded-pill text-bg-primary bb">DOING BUSINESS</span>
+              
+              </div>  
+            </div>
           </div>
         </div>
       </div>
