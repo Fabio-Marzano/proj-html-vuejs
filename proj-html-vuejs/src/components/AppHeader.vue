@@ -95,7 +95,7 @@
             <div class="col">
     <div class="card h-100 ml-20 mt-3">
       <img src="../assets/Img/cat_5-370x155.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
+      <div class="card-body card-img-2">
         
         <p class="card-text">Music</p>
       </div>
@@ -145,7 +145,7 @@
           </div>
         </div>
       </div>
-      <div class="container">
+      <div class="container-fluid">
         <div class="row">
           <div class="col-12">
             <h3 class="text-grey f-size text-center mt-5">Recent courses</h3>
@@ -166,7 +166,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/photo-1461749280684-dccba630e2f6-272x161.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Apache></small></p>
     <p class="card-text f-size-2">Web coding and Apache Basics.</p>
     <p class="card-text"><small class="text-body-secondary">6 hours</small></p>
@@ -176,7 +176,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/cat_2-272x161.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Art></small></p>
     <p class="card-text f-size-2">Real Things Art Painting by Jason Ni</p>
     <p class="card-text"><small class="text-body-secondary">6 hours</small></p>
@@ -186,9 +186,9 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/course-preview-272x161.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Software Development></small></p>
-    <p class="card-text f-size-4">Basics of Masterstudy</p>
+    <p class="card-text f-size-2">Basics of Masterstudy</p>
     <p class="card-text f-size-3"><small class="text-body-secondary">5</small></p>
   </div>
 </div>
@@ -196,7 +196,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/photo-1496307042754-b4aa456c4a2d-272x161.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Electronic></small></p>
     <p class="card-text f-size-2">How to be a DJ? Make Electronic Music</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">5</small></p>
@@ -206,7 +206,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/photo-1416339134316-0e91dc9ded92-scaled-272x161.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Communication></small></p>
     <p class="card-text f-size-2">Design Instruments for Communication</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
@@ -216,7 +216,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/cathryn-lavery-67852-unsplash-272x161.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Art></small></p>
     <p class="card-text f-size-2">Make your Concept Right and Beautiful</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
@@ -228,7 +228,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/photo-1475452779376-caebfb988090-272x161.jpeg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Becycling></small></p>
     <p class="card-text f-size-2">Road Bike Manual or How to Be a Champion</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
@@ -238,7 +238,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/cristian-grecu-762012-unsplash-min-scaled-272x161.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Documentary></small></p>
     <p class="card-text f-size-2">How to Make Beautiful Landscape photos?</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
@@ -248,7 +248,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/landscape-272x161.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Art></small></p>
     <p class="card-text f-size-2">Let's paint Van Gogh's Starry Night</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
@@ -258,7 +258,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/12345-1-272x161.png" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Nvidia></small></p>
     <p class="card-text f-size-2">Nvidia and UE4 Technologies Practice</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">5</small></p>
@@ -268,7 +268,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/jakob-owens-198234-unsplash-min-1-272x161.png" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-2"><small class="text-body-secondary">Art></small></p>
     <p class="card-text f-size-3">How to Work with Legendary RED camera?</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
@@ -278,7 +278,7 @@
           <div class="col-2">
             <div class="card mb-3">
   <img src="../assets/Img/promo_tf-272x161.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="card-body card-img">
     <p class="card-title f-size-3"><small class="text-body-secondary">Software Development></small></p>
     <p class="card-text f-size-2">MasterStudy Mobile LMS App</p>
     <p class="card-text f-size-4"><small class="text-body-secondary">2 hours</small></p>
@@ -312,6 +312,76 @@
         <div class="col-12 text-white head">
           <p class="w-60 f-size-2 ml-85">There are many variations of passages of Lorem Ipsusa available, but the majority have suffered alteration in some form, by injected humour or randomise words</p>
           <div class="content-box mr-2"><button type="button" class="btn btn-primary ml-100">SUBSCRIBE</button></div>
+        </div>
+      </div>
+      <div class="container-fluid bg-container">
+        <div class="row">
+          <div class="col-12">
+            <h3 class="text-center mt-5 f-size">Popular Courses</h3>
+            <p class="text-center mt-4 text-dark">Discover or most popular courses for self learning</p>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col-2">
+            <div class="card mb-3">
+  <img src="../assets/Img/photo-1461749280684-dccba630e2f6-272x161.jpeg" class="card-img-top" alt="...">
+  <div class="card-body card-img">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Apache></small></p>
+    <p class="card-text f-size-2">Web coding and Apache Basics.</p>
+    <p class="card-text"><small class="text-body-secondary">6 hours</small></p>
+  </div>
+</div>
+          </div>
+          <div class="col-2">
+            <div class="card mb-3">
+  <img src="../assets/Img/cat_2-272x161.jpg" class="card-img-top" alt="...">
+  <div class="card-body card-img">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Art></small></p>
+    <p class="card-text f-size-2">Real Things Art Painting by Jason Ni</p>
+    <p class="card-text"><small class="text-body-secondary">6 hours</small></p>
+  </div>
+</div>
+          </div>
+          <div class="col-2">
+            <div class="card mb-3">
+  <img src="../assets/Img/course-preview-272x161.jpg" class="card-img-top" alt="...">
+  <div class="card-body card-img">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Software Development></small></p>
+    <p class="card-text f-size-2">Basics of Masterstudy</p>
+    <p class="card-text f-size-4"><small class="text-body-secondary">5</small></p>
+  </div>
+</div>
+          </div>
+          <div class="col-2">
+            <div class="card mb-3">
+  <img src="../assets/Img/photo-1496307042754-b4aa456c4a2d-272x161.jpeg" class="card-img-top" alt="...">
+  <div class="card-body card-img">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Electronic></small></p>
+    <p class="card-text f-size-2">How to be a DJ? Make Electronic Music</p>
+    <p class="card-text f-size-4"><small class="text-body-secondary">5</small></p>
+  </div>
+</div>
+          </div>
+          <div class="col-2">
+            <div class="card mb-3">
+  <img src="../assets/Img/photo-1416339134316-0e91dc9ded92-scaled-272x161.jpeg" class="card-img-top" alt="...">
+  <div class="card-body card-img">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Communication></small></p>
+    <p class="card-text f-size-2">Design Instruments for Communication</p>
+    <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
+  </div>
+</div>
+          </div>
+          <div class="col-2">
+            <div class="card mb-3">
+  <img src="../assets/Img/cathryn-lavery-67852-unsplash-272x161.jpg" class="card-img-top" alt="...">
+  <div class="card-body card-img">
+    <p class="card-title f-size-3"><small class="text-body-secondary">Art></small></p>
+    <p class="card-text f-size-2">Make your Concept Right and Beautiful</p>
+    <p class="card-text f-size-4"><small class="text-body-secondary">6 hours</small></p>
+  </div>
+</div>
+          </div>
         </div>
       </div>
     </main>
