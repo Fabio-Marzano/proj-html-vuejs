@@ -191,7 +191,9 @@
 .bg-container {
     background-color: #f0f4fa;
 }
-
+.h-cont {
+    height: 700px;
+}
 .container-h {
     
     height: 530px;
@@ -292,6 +294,14 @@
     background-size: cover;
     background-position: center;
     height: 500px;
+    
+}
+
+.bg-image-2 {
+    background-image: url('./assets/Img/we_proud.png');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
 
 .w-80 {

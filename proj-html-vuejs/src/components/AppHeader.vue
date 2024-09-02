@@ -6,10 +6,10 @@
           <div class="col-12">
             <div class="row">
               <div class="col-6">
-                <p class="text-grey">English</p><i class="bi bi-chevron-down"></i>
+                <p class="text-grey f-size-2">English</p><i class="bi bi-chevron-down"></i>
               </div>
               
-              <div class="col-6 head text-grey">
+              <div class="col-6 head text-grey f-size-2">
                 <p class="m-1">Courses</p>
                 <p class="m-1">Zoom</p>
                 <p class="m-1">Pages</p>
@@ -29,7 +29,7 @@
             <p class="m-1">CATEGORY</p>
 
           </div>
-          <div class="col-4 head">
+          <div class="col-4 head f-size-5">
             <p class="m-1">Become an instructor</p>
             <p class="m-1">For enterprise</p>
             <p class="m-1 text-blue"><u>Log in</u></p>            
@@ -293,13 +293,17 @@
           </div>
         </div>
       </div>
-      <div class="container-fluid bg-container mt-3">
+      <div class="container-fluid bg-container mt-3 bg-image-2 h-cont">
         <div class="row">
           <div class="col-12 text-center">
-            <h3 class="mt-5 f-size">We Are Proud</h3>
-            <p class="text-grey f-size-4">Certificated courses are instructed by highly educated and qualifiers instructors who hold doctoral and master's level degrees</p>
+            <h3 class="mt-2 f-size">We Are Proud</h3>
+            <p class="text-grey f-size-3">Certificated courses are instructed by highly educated and qualifiers instructors who hold doctoral and master's level degrees</p>
           </div>
         </div>
+        <div>
+
+        </div>
+
       </div>
       <div class="container-fluid bg-green">
         <div class="row">
